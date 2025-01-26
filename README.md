@@ -1,3 +1,4 @@
+**Overview**
 **This project implements and visualizes solutions to maze traversal problems using three popular algorithms:**
 
 Breadth-First Search (BFS)
